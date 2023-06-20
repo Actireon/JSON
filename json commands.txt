@@ -20,9 +20,9 @@
 
 11) Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON - touch skills.json + vim
 
-12) Отправить сразу 2 файла на внешний репозиторий.
+12) Отправить сразу 2 файла на внешний репозиторий - git add . --> git commit -m "preferences and skills were added" --> git push
 
-13) На веб интерфейсе создать файл bug_report.json.
+13) На веб интерфейсе создать файл bug_report.json - на гитхаб репозитории жмём Add file --> Create new file
 
 14) Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 
